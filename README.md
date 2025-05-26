@@ -35,3 +35,8 @@ A Flutter-based single-screen module for a music service booking app, built as p
 
 ### Tapped Service Example
 ![Tapped Screen](assets/images/screenshot2.jpeg)
+
+### 📽️ Demo Video
+
+[Watch the demo here](https://drive.google.com/file/d/1OoNdgaVFgYdqSbzp84ZNmd5AJyeEm0G4/view?usp=sharing)
+
