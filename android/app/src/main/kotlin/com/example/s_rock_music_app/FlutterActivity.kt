@@ -1,3 +1,5 @@
 package com.example.s_rock_music_app
 
-class MainActivity: FlutterActivity()
+open class FlutterActivity {
+
+}
